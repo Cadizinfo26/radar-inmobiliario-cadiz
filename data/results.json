@@ -1,0 +1,462 @@
+{
+  "updated_at": "2026-11-09T23:55:19.224386+00:00",
+  "method": "Bing RSS: descubrimiento indirecto, no rastreo completo ni comprobación de fichas",
+  "items": [],
+  "checks": [
+    {
+      "source": "Idealista",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Idealista",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Idealista",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Idealista",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Idealista",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Fotocasa",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Fotocasa",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Fotocasa",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Fotocasa",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Fotocasa",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Altamira",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Altamira",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Altamira",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Altamira",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Altamira",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Aliseda",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Aliseda",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Aliseda",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Aliseda",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Aliseda",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Solvia",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Solvia",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Solvia",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Solvia",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Solvia",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Servihabitat",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Servihabitat",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Servihabitat",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Servihabitat",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Servihabitat",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Unicaja",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Unicaja",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Unicaja",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Unicaja",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Unicaja",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Diglo",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Diglo",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Diglo",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Diglo",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Diglo",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Sareb",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Sareb",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Sareb",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Sareb",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Sareb",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "BOE subastas",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "BOE subastas",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "BOE subastas",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "BOE subastas",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "BOE subastas",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Procuradores",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Procuradores",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Procuradores",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Procuradores",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Procuradores",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "eactivos",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "eactivos",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "eactivos",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "eactivos",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "eactivos",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Seguridad Social",
+      "town": "Chiclana de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Seguridad Social",
+      "town": "Conil de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Seguridad Social",
+      "town": "Vejer de la Frontera",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Seguridad Social",
+      "town": "Benalup-Casas Viejas",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    },
+    {
+      "source": "Seguridad Social",
+      "town": "Barbate",
+      "status": "busqueda_indirecta",
+      "results": 0,
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
+    }
+  ]
+}
