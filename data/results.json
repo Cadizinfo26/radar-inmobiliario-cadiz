@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:29:06.165841+00:00",
+  "updated_at": "2026-11-19T16:36:22.072511+00:00",
   "method": "Bing RSS: descubrimiento indirecto, no rastreo completo ni comprobación de fichas",
   "items": [],
   "checks": [
@@ -344,7 +344,7 @@
       "town": "Benalup-Casas Viejas",
       "status": "busqueda_indirecta",
       "results": 0,
-      "note": "La búsqueda indirecta no devolvió resultados; NO implica ausencia de inmuebles."
+      "note": "Resultados de índice externo; NO se ha inspeccionado el portal ni verificado el anuncio."
     },
     {
       "source": "BOE subastas",
